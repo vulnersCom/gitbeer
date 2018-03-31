@@ -26,6 +26,7 @@
 
 ## Fermentation:
 - 23.0 C  14-18 days
+- Dry Hop Mosaic 50g, 7 days
 
 ## Carbonization:
 - 5g/0.5 bottle      Dextrose
