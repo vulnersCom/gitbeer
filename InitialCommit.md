@@ -1,6 +1,6 @@
 # "Initial Commit" irish red ale
 
-- 4,5kg       Castle Malting "Chateau Pale Ale" Malt
+- 5kg       Castle Malting "Chateau Pale Ale" Malt
 - 250g        Weyermann "CaraBelge" Malt
 - 150g        Weyermann "Carafa 1"
 - 150g        Roasted Barley
