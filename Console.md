@@ -21,12 +21,12 @@ Water: 28L
 - 90min
 
 ## Hops:
-- 90min   20g   Target
+- 90min   20g   Warrior
 - 10min   15g   Goldings
 - 1min    25g   Fuggles
 
 ## Fermentation:
-- 23.0 C  9 days
+- 23.0 C  14-18 days
 
 ## Carbonization:
 - 5g/0.5 bottle      Dextrose
