@@ -21,7 +21,7 @@
 ## Hops:
 - 60min   50g   Fuggles YCH
 - 15min   50g   Bramling Cross
-- 15min   1tbl  Whirlfloc
+- 15min   2tbl  Whirlfloc
 - 3 min   50g   Fuggles YCH
 
 ## Fermentation:
