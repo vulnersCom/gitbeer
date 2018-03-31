@@ -2,7 +2,8 @@
 
 - 4,5kg       Castle Malting "Chateau Pale Ale" Malt
 - 250g        Weyermann "CaraBelge" Malt
-- 250g        Weyermann "Carafa 1"
+- 150g        Weyermann "Carafa 1"
+- 150g        Roasted Barley
 
 ## Brewing:
 - Melting 40.0 C
@@ -24,7 +25,7 @@
 - 3 min   50g   Fuggles YCH
 
 ## Fermentation:
-- 23.0 C  3 days
+- 23.0 C  14-18 days
 
 ## Carbonization:
 - 5g/0.5 bottle      Dextrose
